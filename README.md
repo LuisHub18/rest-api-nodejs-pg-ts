@@ -14,5 +14,5 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
+git clone git@github.com:LuisHub18/rest-api-nodejs-pg-ts.git
+cd rest-api-nodejs-pg-ts
