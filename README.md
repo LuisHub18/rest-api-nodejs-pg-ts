@@ -15,4 +15,4 @@ Before you begin, ensure you have met the following requirements:
 
 ```bash
 git clone git@github.com:LuisHub18/rest-api-nodejs-pg-ts.git
-cd your-project
+cd rest-api-nodejs-pg-ts
